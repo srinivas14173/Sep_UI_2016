@@ -1,0 +1,45 @@
+HTML attribute...
+
+src Attribute..
+
+<img> 
+The element is used to display the image in the browser.
+
+src specifies the location and file name of the image ..
+============================================
+
+HTML formatting
+
+In order to give special meaning to HTML elements , formatting is done.
+It makes your webpage look effective and attractive.
+
+<b> == For Bold
+<strong>= similar to Bold
+<i> Italic
+<mark>
+<del>
+<sub>
+<sup>
+====================================
+How to alignment?
+right
+center
+left
+==============
+<h1>Heading</h1>
+to get Heading in center we use align ATTRIBUTE. 
+<h1 align="center"> Heading1</h1>
+Note:
+The attributes must be declared in Opening Tag only..
+
+=================================
+<img src="location.jpg">
+alt attribute is used to give alternate message when image is not available or type mistake...
+===============================================
+cloud 9
+jsfiddle
+js.do
+========================================
+Hyperlinks:
+
+

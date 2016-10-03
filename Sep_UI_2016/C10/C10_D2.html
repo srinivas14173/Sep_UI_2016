@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JS Bin</title>
+</head>
+<body>
+ <canvas id="myCanvas" width="578" height="200"></canvas>
+  
+<script>
+var canvas = document.getElementById('myCanvas');
+      var context = canvas.getContext('2d');
+
+context.font = "60px Arial";
+
+var gra = context.createLinearGradient(0,0,canvas.width,canvas.height);
+gra.addColorStop("0", "Red");
+gra.addColorStop("0.2", "Blue");
+
+gra.addColorStop("1", "Cyan");
+
+context.fillStyle = gra;
+context.fillText("Srinivas Reddy", 10, 60);
+
+
+
+</script>
+</body>
+</html>

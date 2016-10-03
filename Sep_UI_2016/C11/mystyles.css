@@ -1,0 +1,20 @@
+
+		p{
+			color:green !important; 
+
+
+		}
+		#imppar{
+			color:green;
+			
+		}
+		.mycls{
+			color:navy;
+		}
+		h1,p{
+			color:yellow !important;
+
+		}
+		h1,h2,h3,p{
+			color:blue !important;
+		}

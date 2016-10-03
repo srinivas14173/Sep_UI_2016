@@ -1,0 +1,30 @@
+Hyperlinks:
+HTML links are hyperlinks.
+The link allows the user to redirect from one page to another.
+the hyperlinks can be text or image.
+<a> Tag is used for specifying the links in HTML.
+<a> stands for anchor.
+
+Example:
+<!DOCTYPE html>
+<html>
+	<head>
+			<title>C3</title>
+	</head>
+<body>
+<h1>Class 2 Finished</h1>
+<a href="C3_D2.html">Next Page</a>
+<hr>
+<a href="C3_D3.html"><img src="abc.jpg"/></a>
+
+
+</body>
+</html>
+
+========================================= 
+Hyperlinks  attributes.
+
+Link = Unvisited Link
+Visited= When link is Visited.
+Hover= When the mouse cursor is placed on the link
+Active= When the hyperlink is clicked, link becomes active.
